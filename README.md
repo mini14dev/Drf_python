@@ -1,0 +1,2 @@
+# Drf_python
+ REST API WITH CRUD OPERATIONS
