@@ -1,2 +1,2 @@
-# Drf_python
+# Django REST Framework
  REST API WITH CRUD OPERATIONS
